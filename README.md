@@ -1,2 +1,2 @@
 # ReCapProject-master
-- ReCapProject Front-end projesidir.
+- ReCapProject Back-end projesidir.

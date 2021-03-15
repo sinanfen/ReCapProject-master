@@ -1,6 +1,4 @@
-﻿/*Created By Engin Yenice
-enginyenice2626@gmail.com*/
-
+﻿
 using Business.Abstract;
 using Entities.Dtos;
 using Microsoft.AspNetCore.Mvc;

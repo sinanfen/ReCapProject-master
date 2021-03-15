@@ -1,5 +1,4 @@
-﻿/*Created By Engin Yenice
-enginyenice2626@gmail.com*/
+﻿
 
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;

@@ -1,6 +1,4 @@
-﻿// Created By Engin Yenice
-// enginyenice2626@gmail.com
-
+﻿
 using System.Diagnostics;
 using Core.CrossCuttingConcerns.Caching;
 using Core.CrossCuttingConcerns.Caching.Microsoft;

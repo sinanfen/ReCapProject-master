@@ -1,6 +1,4 @@
-﻿// Created By Engin Yenice
-// enginyenice2626@gmail.com
-
+﻿
 using Castle.DynamicProxy;
 using Core.CrossCuttingConcerns.Caching;
 using Core.Utilities.Interceptors;

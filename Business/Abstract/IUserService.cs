@@ -1,6 +1,4 @@
-﻿/*Created By Engin Yenice
-enginyenice2626@gmail.com*/
-
+﻿
 using Core.Entities.Concrete;
 using Core.Utilities.Results;
 using System.Collections.Generic;
